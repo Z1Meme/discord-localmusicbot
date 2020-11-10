@@ -18,4 +18,4 @@ sodium.dll - https://github.com/adamcaudill/libsodium-net
 
 luvit.exe/luvi.exe/lit.exe - https://luvit.io/install.html
 
-Created early 2019 at some point
+Created at some point in 2019
